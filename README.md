@@ -5,9 +5,11 @@
 - 🌱 I’m currently learning AIGC tools to integrate artificial intelligence more effectively into projects.
 - 📫 How to reach me: jearton1024@gmail.com
 
+![:name](https://count.getloli.com/@:name)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jearton&show_icons=true&theme=ambient_gradient)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jearton&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jearton&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 jearton/jearton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

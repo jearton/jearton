@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Jearton
 
 - 🔭 I'm a passionate software engineer dedicated to building efficient and scalable applications.
-- 👀 I'm deeply interested in coding, DevOps, and architectural design, constantly exploring new technological advancements.
+- 👀 I'm deeply interested in coding, DevOps, and architecture design, constantly exploring new technological advancements.
 - 🌱 I’m currently learning AIGC tools to integrate artificial intelligence more effectively into projects.
 - 📫 How to reach me: jearton1024@gmail.com
 
